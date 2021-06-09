@@ -1,13 +1,13 @@
 # Simple React JS Project
 
-## What is the use of this Repo
+## About
 
 This Project is a Simple ReactJS Project which demonstrates the following
-1. Creating a Component in React
-2. Making HTTP calls
-3. Communicating between parent and child component
-4. Using Bootstrap along with React
-5. Using Basic Routing in React
+1. Create a react component
+2. HTTP calls
+3. Parent and child component communication
+4. Integrating bootstrap to React
+5. Basic routing
 
 The project Template can be used to build bigger projects
 
@@ -45,9 +45,10 @@ The Application Runs on **localhost:3000**
 
 #### Components
 
-1. **Customers** Component : This Component displays a list of customers. This Component gets the data from a json file in assets folder
+1. **Customers** Component : The component is used to display a list of names. Data is retrieved from a json file in asset folder.
 
-2. **CustomerDetails** Component : This Component Displays the details of the selected customer. This Component gets its data from a json file in assets folder as well. This Component is the Child Component of *Customers* Component
+2. **CustomerDetails** Component : Displays the details of selected names. Child component.
+
 
 #### HTTP client
 
