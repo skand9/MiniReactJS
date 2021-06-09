@@ -1,4 +1,4 @@
-# Simple React JS Project
+# Simple ReactJS component
 
 ## About
 
